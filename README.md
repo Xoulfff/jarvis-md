@@ -1,8 +1,8 @@
-#### JARVIS MD WHATSAPP BOT
+#### XOUL MD WHATSAPP BOT
 jarvis md is Multi Device whatsapp bot based on X-Asena
 ***
 
-### SETUP JARVIS
+### SETUP XOULMD
 
 1. Scan the QR code
     <br>
@@ -75,7 +75,7 @@ jarvis md is Multi Device whatsapp bot based on X-Asena
 - [INRL ❤️](https://github.com/inrl-official) <br>
 - [X-Electra](https://github.com/inrl-official) for [X-Asena](https://github.com/X-Electra/X-Asena)
 
-#### JARVIS SUPPORT 
+#### XOUL MD SUPPORT 
 
 
 <details close>
