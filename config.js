@@ -12,7 +12,7 @@ const toBool = (x) => x === 'true';
 const DATABASE_URL = process.env.DATABASE_URL === undefined ? "./database.db" : process.env.DATABASE_URL
 
 module.exports = {
-  AUDIO_DATA: process.env.AUDIO_DATA || '⺀𑁍 𝚾͢ᴏ᪳ᴜ᪳ʟ᷏᪳ 𝐒͢ᴇ᪳ʀ᷏᪳ ▸ᝃ〔🍉🐼〕;🍃ഇ͎ꫧ᪳͢გവ᪳გ͎◕ കട᪳൬͎გ ලപꪆവ᪳გ◕🕊️;https://i.imgur.com/CoAcgTb.jpeg',
+  AUDIO_DATA: process.env.AUDIO_DATA || 'xᴏᴜʟ ꜱᴇʀ;xᴏᴜʟ ꜱᴇʀ;https://i.imgur.com/CoAcgTb.jpeg',
   WARN_COUNT: process.env.WARN_COUNT || '3',
   LOGS: toBool(process.env.LOGS) || true,
   KOYEB_API: process.env.KOYEB_API || '',
