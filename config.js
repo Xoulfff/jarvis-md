@@ -20,7 +20,7 @@ module.exports = {
   SERVER: process.env.SERVER || 'defeat',
   ALIVE_DATA : process.env.ALIVE_DATA || "🩵🖐🏻",
   IMGBB_KEY: ["76a050f031972d9f27e329d767dd988f", "deb80cd12ababea1c9b9a8ad6ce3fab2", "78c84c62b32a88e86daf87dd509a657a"],
-  SESSION_ID: process.env.SESSION_ID || 'Jarvis_6b30_40c0_ed5e_71b5_3c02_efda_c186_40d7=',
+  SESSION_ID: process.env.SESSION_ID || 'Jarvis_6b30_40c0_ed5e_71b5_3c02_efda_c186_40d7',
   LANG: process.env.LANG || 'EN',
   AUTO_REACTION: process.env.AUTO_REACTION || 'true',
   HANDLERS: process.env.HANDLER  || 'null',
