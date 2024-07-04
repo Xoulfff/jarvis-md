@@ -23,7 +23,7 @@ module.exports = {
   SESSION_ID: process.env.SESSION_ID || 'Jarvis_6b30_40c0_ed5e_71b5_3c02_efda_c186_40d7',
   LANG: process.env.LANG || 'EN',
   AUTO_REACTION: process.env.AUTO_REACTION || 'true',
-  HANDLERS: process.env.HANDLER  || 'null',
+  HANDLERS: process.env.HANDLER  || '.',
   RMBG_KEY: process.env.RMBG_KEY || false,
   BRANCH: 'main',
   PORT: toBool(process.env.PORT) || 8000,
