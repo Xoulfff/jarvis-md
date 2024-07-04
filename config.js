@@ -18,13 +18,7 @@ module.exports = {
   KOYEB_API: process.env.KOYEB_API || '',
   SERVERURL: process.env.SERVERURL || '',
   SERVER: process.env.SERVER || 'defeat',
-  ALIVE_DATA : process.env.ALIVE_DATA || "*✰ 𝐇͢ᴇ⃗ʏʏ᷏ &sender*
- 
-*✰ 𝐘͢ᴇ⃗ʜʜ᷏ 𝐈͢ᴍ ᷏𝐇͢ᴇ⃗ʀᴇ᷏*
-
-*✰ 𝐘͢ᴇ⃗ʜʜ᷏ 𝐈͢ᴛ⃗s᷏ 𝐌͢ᴇ 𝐗͢ᴏ⃗ᴜʟ᷏ 𝐒͢ᴇ⃗ʀ᷏*
-
-*✰ 𝐄͢ᴅ⃗ᴀ᷏ 𝐌͢ᴡ⃗ᴏɴᴇ᷏ 𝐇͢ᴀ⃗ᴘᴘʏ᷏ 𝐀͢ʟ⃗ʟᴇ᷏*",
+  ALIVE_DATA : process.env.ALIVE_DATA || "🩵🖐🏻",
   IMGBB_KEY: ["76a050f031972d9f27e329d767dd988f", "deb80cd12ababea1c9b9a8ad6ce3fab2", "78c84c62b32a88e86daf87dd509a657a"],
   SESSION_ID: process.env.SESSION_ID || 'Jarvis_6b30_40c0_ed5e_71b5_3c02_efda_c186_40d7=',
   LANG: process.env.LANG || 'EN',
